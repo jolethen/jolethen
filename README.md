@@ -1,4 +1,4 @@
-Computer Enthusiast, tryna achieve my goal, which is to become w software engineer/developer so far ive learnt the following skillsets/ languages
+Computer Enthusiast, tryna achieve my goal, which is to become a software engineer/developer so far i've learnt the following skillsets/ languages
 
 - Html
 - Python
